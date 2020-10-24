@@ -27,4 +27,4 @@ jobs:
       run: bundle exec rake
     - name: Run tests
       run: bundle exec cucumber --publish
-      if: succeeded() || failed()
+      if: success() || failure()
