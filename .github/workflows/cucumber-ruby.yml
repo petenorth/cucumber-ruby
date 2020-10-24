@@ -23,7 +23,7 @@ jobs:
     - run: sudo apt-get install libsqlite3-dev libxml2-dev libxslt-dev
     - name: Install dependencies
       run: bundle install
-    - namee: Run contributor tests
+    - name: Run contributor tests
       run: bundle exec rake
     - name: Run tests
       run: bundle exec cucumber --publish
