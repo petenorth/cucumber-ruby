@@ -1,6 +1,6 @@
 [![OpenCollective](https://opencollective.com/cucumber/backers/badge.svg)](https://opencollective.com/cucumber)
 [![OpenCollective](https://opencollective.com/cucumber/sponsors/badge.svg)](https://opencollective.com/cucumber)
- 
+  
 [![CircleCI](https://circleci.com/gh/cucumber/cucumber-ruby.svg?style=svg)](https://circleci.com/gh/cucumber/cucumber-ruby)
 
 [![Code Climate](https://codeclimate.com/github/cucumber/cucumber-ruby.svg)](https://codeclimate.com/github/cucumber/cucumber-ruby)
